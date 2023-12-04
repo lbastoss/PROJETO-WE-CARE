@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    color: #989D9C;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin: 44px 0 0 76px; 
+    cursor: pointer;
+   
+}
+
+.links-menu {
+    margin-right: 23px;
+}
+
+.button-login {
+    width: 130px;
+    height: 41px;
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    background: #665AE1;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+a:active {
+    color: blue;
+}
+
+button:hover {
+    opacity: 0.6;
+}
+
+button:active {
+    opacity: 0.4;
+}
+
+div {
+    display: inline-block;
+    margin-left: 86px;
+    margin-top: 50px;
+
+   
+   
+   
+}
+
+.fotodog {
+    width: 568px;
+    height: 500px;
+    display: inline-block;
+    margin-left: 125px ;
+  
+}
+
+
+h1 {
+    color: #515151;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    width: 513px;
+    height: 122px;
+
+
+}
+
+h2{
+    color: #515151;
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 71px;
+}
+
+p {
+    color: #848484;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    width: 515px;
+    margin-top: 50px ;
+    margin-bottom: 50px;
+   
+
+}
+
+.explore {
+    color: #000;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 239px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 20.5px;
+    background: #ADFF00;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+
+main {
+    margin-top: 150px;
+}
+
+@media screen and (max-width: 900px) {
+    header {
+        display: none;
+    }
+    
+    p {
+        display: none;
+    }
+
+    img {
+       display: block;
+        width: auto;
+        height: auto;
+
+    }
+
+    main {
+        text-align: center;
+        width: auto;
+        height: auto;
+        display: block;
+    }
+}
