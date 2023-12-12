@@ -8,9 +8,13 @@
 This project HTML and CSS were used
 <br>
 <br>
-Responsive design for multiple screens</h2>
+Responsive design for multiple screens.</h2>
+<br>
+<br>
 <br>
 <p float="left">
+<br>
+<br>
 <br>
 <br>
 
