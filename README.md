@@ -18,6 +18,7 @@ Responsive design for multiple screens.</h2>
 <br>
 <br>
 
- <img src="https://github.com/lbastoss/projeto-figma-we-care/blob/main/assets/We%20Care%20Your%20Pet%203.png" alt="projetc-we-care" width="700"/>
+ <img src="https://github.com/lbastoss/project-we-care/blob/main/assets/desktop.png" alt="img-desktop" width="700"/>
 <br>
 <br>
+<img src="https://github.com/lbastoss/project-we-care/blob/main/assets/mobile.png" alt="img-desktop" width="200"/>
